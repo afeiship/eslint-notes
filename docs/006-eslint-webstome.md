@@ -14,4 +14,17 @@ Don't use semicolon to terminate statements always
 
 This would allow you to check for unterminated statements while not flagging up the missing semicolons.
 
-<img width="500" src="https://i.stack.imgur.com/GiwuV.png">
+<img width="500" src="https://i.stack.imgur.com/GiwuV.png"/>
+
+## setting in project(use eslint but not standard):
+0. remove .idea setting in project:
+```shell
+cd ~/my-project
+rm -rf .idea
+```
+
+1. select the error icon:
+<img width="500" src="https://ws4.sinaimg.cn/large/006tNc79gy1fyvr1qpd3aj31680n8q7e.jpg"/>
+
+2. use eslint but not standard:
+<img width="500" src="https://ws2.sinaimg.cn/large/006tNc79gy1fyvr4532cej30w80regqv.jpg"/>
