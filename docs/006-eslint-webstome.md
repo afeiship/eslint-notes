@@ -28,3 +28,6 @@ rm -rf .idea
 
 2. use eslint but not standard:
 <img width="500" src="https://ws2.sinaimg.cn/large/006tNc79gy1fyvr4532cej30w80regqv.jpg"/>
+
+3. Format with pretieer:
+<img width="500" src="https://ws4.sinaimg.cn/large/006tNc79ly1fz88d6skhhj31420u07b3.jpg"/>
