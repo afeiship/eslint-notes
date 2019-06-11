@@ -15,6 +15,9 @@ npx eslint --init
 npx eslint src/*.js
 # OR
 ./node_modules/bin/eslint src*/.js
+
+# 4. lint src/**.js
+npx eslint src
 ```
 
 ## resources
