@@ -1,0 +1,14 @@
+{
+  "name": "eslint-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:afeiship/eslint-notes.git",
+  "author": "afeiship <1290657123@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint":"eslint src/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
