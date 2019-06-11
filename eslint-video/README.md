@@ -5,9 +5,13 @@
 
 ## install
 ```shell
+# 1. install eslint
 npm install eslint -D
 
-# lint script
+# 2. init eslint
+npx eslint --init
+
+# 3. lint script
 npx eslint src/*.js
 # OR
 ./node_modules/bin/eslint src*/.js
